@@ -4,7 +4,6 @@
 🔬 Pós-graduanda em Bioinformática Aplicada à Genômica Médica – Hospital Israelita Albert Einstein  
 💻 Estudando **Python**, **Bash**, **Unix** e **Pandas**  
 🧪 Experiência em microbiologia, virologia, anatomia patológica, análises clínicas e bioinformática
-📌 Interesse em: análise de expressão gênica, metagenômica, machine learning, microbiologia, parasitologia e modelagem molecular
 
 
 ## 🌱 Atualmente aprendendo
